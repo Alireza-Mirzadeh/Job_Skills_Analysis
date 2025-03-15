@@ -4,7 +4,7 @@ This project analyzes job descriptions to identify the most in-demand skills acr
 ---
 
 ## Data Source
-This project uses the **Resume-Job-Description-Matching Dataset**, which was shared in the following repository:
+This project uses a dataset from **Resume-Job-Description-Matching**, which was shared in the following repository:
 
 [Dutt, B. (2018). Resume-Job-Description-Matching. GitHub.](https://github.com/binoydutt/Resume-Job-Description-Matching)
 
